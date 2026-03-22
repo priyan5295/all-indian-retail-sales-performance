@@ -103,7 +103,8 @@ all-indian-retail-sales-performance/
 
 Aspiring Data Analyst | Excel • Power BI • SQL • Python
 
-📧 Open to Data Analyst opportunities in Bangalore, Chennai, Coimbatore
+LinkedIn - <a href="https://www.linkedin.com/in/sathiya-priyan-da/">Sathiya Priyan</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sathiya-priyan-da/))
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/priyan5295)
+Github - <a href="https://github.com/priyan5295">Github</a>
+
+📧 Open to Data Analyst opportunities in Bangalore, Chennai, Coimbatore
