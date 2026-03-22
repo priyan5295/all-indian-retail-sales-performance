@@ -22,15 +22,8 @@ An interactive Power BI dashboard analyzing all-India retail sales performance a
 
 The raw dataset contained 7 data quality issues — all resolved using Power Query:
 
-| # | Issue | Fix Applied |
-|---|-------|-------------|
-| 1 | Inconsistent city names (mumbai, MUMBAI, Bombay) | Capitalize Each Word |
-| 2 | Null values in Revenue column | Replaced with 0 |
-| 3 | Null values in Profit column | Replaced with 0 |
-| 4 | Duplicate Order IDs | Removed Duplicates |
-| 5 | Mixed date formats (DD-MM-YYYY vs YYYY-MM-DD) | Standardized to Date type |
-| 6 | Negative Profit values | Absolute Value applied |
-| 7 | Text prefix in Unit Price (₹48000) | Removed ₹ prefix, converted to Number |
+<img width="1916" height="1001" alt="indian_retail_sales_power_query_1" src="https://github.com/user-attachments/assets/284f20f4-af50-4ba3-99b8-c623727fbbfb" />
+
 
 ---
 
